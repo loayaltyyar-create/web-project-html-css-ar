@@ -45,18 +45,14 @@ header nav ul {
    
 }
 
-header ul {
-  color: #ffffff; 
-}
-
 header li {
     display: inline; /* عرض عناصر القائمة بجانب بعضها */
     margin-left: 20px;
 }
 
 header a {
-    
-   
+    color: #ffffff; 
+   text-decoration: none;
     font-weight: bold;
 }
 
