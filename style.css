@@ -39,7 +39,8 @@ header h1 {
 }
 
 header nav {
-    
+    display: flex;
+   
 }
 
 header ul {
