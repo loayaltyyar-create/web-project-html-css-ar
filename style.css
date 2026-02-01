@@ -35,7 +35,7 @@ header .container
 }
 
 header h1 {
-    float: right; /* محاذاة العنوان لليمين (بما أن الصفحة RTL) */
+  
 }
 
 header nav {
