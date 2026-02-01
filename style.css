@@ -27,6 +27,12 @@ header {
     padding: 20px 0;
     border-bottom: #e8491d 3px solid; /* خط سفلي برتقالي */
 }
+header .container
+{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
 
 header h1 {
     float: right; /* محاذاة العنوان لليمين (بما أن الصفحة RTL) */
