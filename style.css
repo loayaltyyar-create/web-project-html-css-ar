@@ -54,6 +54,7 @@ header a {
     color: #ffffff; 
    text-decoration: none;
     font-weight: bold;
+    transition: color 0.3s ease; 
 }
 
 /* تنسيق قسم الـ Hero (العرض الرئيسي الجذاب) */
