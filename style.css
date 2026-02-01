@@ -55,7 +55,7 @@ header li {
 }
 
 header a {
-    color: #ffffff;
+    
     text-decoration: none; /* إزالة الخط تحت الروابط */
     font-weight: bold;
 }
