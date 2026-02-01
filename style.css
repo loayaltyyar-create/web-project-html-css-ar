@@ -1,7 +1,7 @@
 /* إعدادات عامة لجميع عناصر الصفحة لإزالة الهوامش الافتراضية */
 * {
     margin: 0;
-    padding: 10;
+    padding: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
